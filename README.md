@@ -5,7 +5,7 @@
 * Her farklı ekran boyutuna uygun responsive tasarım düzenlenmiştir.
 
 
- * Güncel HTML5 ve CSS ve SCSS kullanılarak oluşturulmuştur. 
+ * Güncel HTML5, CSS ve SCSS kullanılarak oluşturulmuştur. 
  
 
 <h1> ekran goruntusu </h1>
