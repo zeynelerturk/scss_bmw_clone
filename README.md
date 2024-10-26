@@ -9,4 +9,5 @@
  
 
 <h1> ekran goruntusu </h1>
-![bmw](https://github.com/user-attachments/assets/09bb0d6b-9562-40bf-a1f8-1434103ddb99)
+
+![bmw](https://github.com/user-attachments/assets/506c0eeb-9e9c-4b8f-bd9d-d350242341dd)
